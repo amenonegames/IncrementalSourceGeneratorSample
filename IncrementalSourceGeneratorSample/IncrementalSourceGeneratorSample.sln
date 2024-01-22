@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncrementalSourceGeneratorSample", "IncrementalSourceGeneratorSample\IncrementalSourceGeneratorSample.csproj", "{157D19C4-3801-442E-811A-E995C5441ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandBox", "SandBox\SandBox.csproj", "{057AF9A4-2FE4-461D-957B-E1ADBE7694D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{157D19C4-3801-442E-811A-E995C5441ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157D19C4-3801-442E-811A-E995C5441ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157D19C4-3801-442E-811A-E995C5441ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157D19C4-3801-442E-811A-E995C5441ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{057AF9A4-2FE4-461D-957B-E1ADBE7694D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057AF9A4-2FE4-461D-957B-E1ADBE7694D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057AF9A4-2FE4-461D-957B-E1ADBE7694D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057AF9A4-2FE4-461D-957B-E1ADBE7694D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
