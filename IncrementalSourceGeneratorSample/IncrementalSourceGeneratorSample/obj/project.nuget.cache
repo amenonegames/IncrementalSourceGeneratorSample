@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "G7ppGEltIcnw1eYnt4KyUB8gUEv1HWMsrrZvUqoEhnB/KMQogwl1WBBIce6VDXz9WD3S384+wO1UT+Cf2buONw==",
+  "dgSpecHash": "Zt9Eqzl27fU6jW79ruQhVEVqGP4qYrgduHEM4BkENm261heJQL7xI1QSMqMtBKxUGHl8+u6rd6PryuloVWotgw==",
   "success": true,
   "projectFilePath": "C:\\Users\\tamed\\Documents\\project\\IncrementalSourceGeneratorSample\\IncrementalSourceGeneratorSample\\IncrementalSourceGeneratorSample\\IncrementalSourceGeneratorSample.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\tamed\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.1.0\\microsoft.codeanalysis.csharp.4.1.0.nupkg.sha512",
     "C:\\Users\\tamed\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\tamed\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\tamed\\.nuget\\packages\\polysharp\\1.14.1\\polysharp.1.14.1.nupkg.sha512",
     "C:\\Users\\tamed\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\tamed\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\tamed\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

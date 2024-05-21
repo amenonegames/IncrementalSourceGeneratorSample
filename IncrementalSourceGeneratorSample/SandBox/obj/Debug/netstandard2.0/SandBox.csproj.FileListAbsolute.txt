@@ -8,3 +8,4 @@ C:\Users\tamed\Documents\project\IncrementalSourceGeneratorSample\IncrementalSou
 C:\Users\tamed\Documents\project\IncrementalSourceGeneratorSample\IncrementalSourceGeneratorSample\SandBox\bin\Debug\netstandard2.0\SandBox.pdb
 C:\Users\tamed\Documents\project\IncrementalSourceGeneratorSample\IncrementalSourceGeneratorSample\SandBox\obj\Debug\netstandard2.0\SandBox.dll
 C:\Users\tamed\Documents\project\IncrementalSourceGeneratorSample\IncrementalSourceGeneratorSample\SandBox\obj\Debug\netstandard2.0\SandBox.pdb
+C:\Users\tamed\Documents\project\IncrementalSourceGeneratorSample\IncrementalSourceGeneratorSample\SandBox\obj\Debug\netstandard2.0\SandBox.sourcelink.json

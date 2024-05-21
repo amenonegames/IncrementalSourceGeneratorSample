@@ -23,7 +23,6 @@ namespace IncrementalSourceGeneratorSample
             )
                 .Collect();
 
-
             context.RegisterSourceOutput(
                 provider,
                 static (sourceProductionContext, metaDataArray) =>
@@ -32,6 +31,7 @@ namespace IncrementalSourceGeneratorSample
                     
                     foreach (var meta in metaDataArray)
                     {
+                        var complation = meta.SemanticModel;
                         var symbol = meta.TargetSymbol;
                         var name = symbol.Name;
                         var nameSpaceIsGlobal = symbol.ContainingNamespace.IsGlobalNamespace;
